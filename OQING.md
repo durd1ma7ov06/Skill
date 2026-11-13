@@ -4,7 +4,7 @@ ECC **v2.2.3** asosida tayyorlangan ko‘chma skill to‘plami. Istalgan loyihad
 
 **Skill to‘plami muallifi va nashr egasi:** [Mansur — durd1ma7ov06](https://github.com/durd1ma7ov06).
 
-**Asos bo‘lgan ECC kodi:** [Affaan Mustafa va ECC hamjamiyati](https://github.com/affaan-m/ECC), [MIT litsenziyasi](LICENSE). Bu Mansur tomonidan e’lon qilingan mustaqil to‘plam; rasmiy ECC nashri emas. ECC kodining asl mualliflik yozuvlari saqlangan.
+[Litsenziya](LICENSE) · [Uchinchi tomon qaydlari](THIRD_PARTY_NOTICES.md)
 
 ## Tarkibi
 
