@@ -2,7 +2,9 @@
 
 ECC **v2.2.3** asosida tayyorlangan ko‘chma skill to‘plami. Istalgan loyihada tahlil, dizayn, backend, kod tekshiruvi va test ishlarida foydalanish uchun.
 
-**Asl muallif:** [Affaan Mustafa va ECC hamjamiyati](https://github.com/affaan-m/ECC). **Litsenziya:** [MIT](LICENSE). Bu mustaqil qadoqlangan nusxa; rasmiy ECC repozitoriysi emas. Asl copyright yozuvlari saqlangan.
+**Skill to‘plami muallifi va nashr egasi:** [Mansur — durd1ma7ov06](https://github.com/durd1ma7ov06).
+
+**Asos bo‘lgan ECC kodi:** [Affaan Mustafa va ECC hamjamiyati](https://github.com/affaan-m/ECC), [MIT litsenziyasi](LICENSE). Bu Mansur tomonidan e’lon qilingan mustaqil to‘plam; rasmiy ECC nashri emas. ECC kodining asl mualliflik yozuvlari saqlangan.
 
 ## Tarkibi
 

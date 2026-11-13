@@ -25,5 +25,10 @@
     "Codex contains the previously installed native plugin and migrated command skills; cache bookkeeping removed.",
     "Antigravity contains only verified ECC-managed skills, agents, rules and workflows.",
     "No personal settings, authentication stores or project datasets are included."
-  ]
+  ],
+  "bundle_author": {
+    "name": "Mansur",
+    "github": "durd1ma7ov06",
+    "role": "Skill bundle preparation and publication"
+  }
 }
