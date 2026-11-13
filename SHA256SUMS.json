@@ -45883,8 +45883,8 @@
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
-      "bytes": 602,
-      "sha256": "7a50b4a0a7fae49b6079112e70f8bacc14f833cf8f1a6d1ceef4568670b8c930"
+      "bytes": 344,
+      "sha256": "b66288c3af8a694500eff12e5379ac48be89e81ffa419e702e2d7357194e5d8a"
     },
     {
       "path": "scripts/verify_bundle.py",
