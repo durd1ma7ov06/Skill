@@ -1,0 +1,29 @@
+{
+  "bundle_date": "2026-11-13",
+  "upstream": "https://github.com/affaan-m/ECC",
+  "version": "2.2.3",
+  "commit": "c05b2d6614f62f6db0047669aa4eefb223d478f9",
+  "license": "MIT",
+  "publisher_repository": "https://github.com/durd1ma7ov06/Skill",
+  "counts": {
+    "Antigravity": {
+      "skills": 281,
+      "agents": 68
+    },
+    "Claude-Code": {
+      "skills": 293,
+      "agents": 68
+    },
+    "Codex": {
+      "skills": 293,
+      "agents": 68,
+      "migrated_command_skills": 35
+    }
+  },
+  "notes": [
+    "Claude-Code contains upstream tracked source without git history or node_modules.",
+    "Codex contains the previously installed native plugin and migrated command skills; cache bookkeeping removed.",
+    "Antigravity contains only verified ECC-managed skills, agents, rules and workflows.",
+    "No personal settings, authentication stores or project datasets are included."
+  ]
+}

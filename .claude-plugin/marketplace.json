@@ -1,0 +1,17 @@
+{
+  "name": "skill-ecc",
+  "owner": {
+    "name": "durd1ma7ov06"
+  },
+  "metadata": {
+    "description": "ECC 2.2.3 portable bundle; upstream MIT attribution preserved"
+  },
+  "plugins": [
+    {
+      "name": "ecc",
+      "source": "./Claude-Code",
+      "version": "2.2.3",
+      "description": "ECC for Claude Code; maintained upstream by Affaan Mustafa and contributors"
+    }
+  ]
+}
